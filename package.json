@@ -1,0 +1,15 @@
+{
+  "name": "EntityXQuickStart",
+  "version": "1.0.0",
+  "description": "This is a sample quickstart EntityX project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "license": "ISC",
+  "dependencies": {
+    "entityx": "^git://github.com/codeflyer/entityx.git#0.2.1",
+    "mongodb": "^1.4.22"
+  }
+}
