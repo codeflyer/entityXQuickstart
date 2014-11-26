@@ -1,5 +1,5 @@
 var util = require('util');
-var MongoDBObjectID = require('entityx').MongoDBObjectID;
+var MongoDBObjectID = require('entityx').repositories.MongoDBObjectID;
 
 var BookDriver = function(id) {
   MongoDBObjectID.call(this, {

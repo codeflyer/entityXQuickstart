@@ -4,7 +4,7 @@
   "collectionName": "books",
   "useTimestamp" : true,
   "timestampFlat" : false,
-  "driverType" : "MongoDBObjectID",
+  "repositoryType" : "MongoDBObjectID",
   "attributes": [
     {
       "name": "title",

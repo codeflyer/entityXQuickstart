@@ -1,5 +1,5 @@
 var util = require('util');
-var Entity = require('entityx').Entity;
+var Entity = require('entityx').entities.Entity;
 
 var Book = function() {
   Entity.call(this,
